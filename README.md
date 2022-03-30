@@ -14,7 +14,6 @@ Estimating the location and orientation of a camera by analyzing a sequence of i
 ### Files 
    -  trajectory.py and monocularVO.py
    -  output.txt - contains the terminal output of about 2000 frames
-   -  Reference.pdf - explains the necessary keywords and steps in the code
    -  trajectory.png - Ground truth vs Estimated Odometry position plotted.
 
 ## Running Program
