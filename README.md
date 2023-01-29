@@ -10,6 +10,7 @@ Estimating the location and orientation of a camera by analyzing a sequence of i
 
 ### Dataset
 [KITTI odometry data set (grayscale, 22 GB)](http://www.cvlibs.net/datasets/kitti/eval_odometry.php)
+The KITTI dataset is collected from driving a car around a city which equipped with various sensors including high-resolution RGB camera, grayscale stereo camera, a 3D laser scanner, and highprecision GPS measurements and IMU accelerations from a combined GPS/IMU system
 
 ### Files 
    -  trajectory.py and monocularVO.py
